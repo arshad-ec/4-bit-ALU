@@ -57,9 +57,6 @@ This ALU performs the following operations:
 ## Project Structure
 
 
-
-```text
-
 4-bit-ALU/
 
 ├── src/
