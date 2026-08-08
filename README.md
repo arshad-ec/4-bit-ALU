@@ -1,4 +1,4 @@
-**# 4-Bit ALU using Verilog**
+# 4-Bit ALU using Verilog
 
 
 
@@ -6,7 +6,7 @@ A simple 4-bit Arithmetic Logic Unit (ALU) designed using Verilog HDL and simula
 
 
 
-**## Features**
+## Features
 
 
 
@@ -26,7 +26,7 @@ This ALU performs the following operations:
 
 
 
-**## Inputs**
+## Inputs
 
 
 
@@ -42,7 +42,7 @@ This ALU performs the following operations:
 
 
 
-**## Output**
+## Output
 
 
 
@@ -54,7 +54,7 @@ This ALU performs the following operations:
 
 
 
-**## Project Structure**
+## Project Structure
 
 
 
@@ -78,8 +78,7 @@ This ALU performs the following operations:
 
 
 
-**Tools Used**
-
+## Tools Used
 
 
 . Verilog HDL
@@ -92,22 +91,20 @@ This ALU performs the following operations:
 
 
 
-**Simulation**
-
+## Simulation
 
 
 The ALU was verified using a Verilog testbench in Xilinx Vivado.
 
 
+### Simulation Waveform
 
-The simulation waveform is included in:
-
-simulation/waveform.png
-
+![4-Bit ALU Simulation Waveform]
+(simulation/waveform.png)
 
 
-**Author**
 
+## Author
 
 
 Arshad Alam
