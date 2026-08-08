@@ -99,8 +99,7 @@ The ALU was verified using a Verilog testbench in Xilinx Vivado.
 
 ### Simulation Waveform
 
-![4-Bit ALU Simulation Waveform]
-(simulation/waveform.png)
+![4-Bit ALU Simulation Waveform](simulation/waveform.png)
 
 
 
